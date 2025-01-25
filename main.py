@@ -32,7 +32,7 @@ def download(update: Update, context: CallbackContext) -> None:
 
 def main():
     # Your bot's API token from BotFather
-    TOKEN = 'YOUR_BOT_API_TOKEN'
+    TOKEN = '6013014249:AAH2RW8AgSYl8SCyz8u5rov6ZrLRqyutUWo'
 
     updater = Updater(TOKEN)
     dispatcher = updater.dispatcher
